@@ -1,0 +1,1 @@
+Trigger Vercel redeploy for BESTSHOP Manager Pro on 2026-08-24 11:15 KST.
